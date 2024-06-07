@@ -4,10 +4,10 @@ import SoundControl from "./components/SoundControl";
 import "./App.css";
 
 const sounds = [
-  { id: 1, label: "Rain", url: "/sounds/rain.mp3" },
-  { id: 2, label: "Birds", url: "/sounds/birds.mp3" },
-  { id: 3, label: "Coffee Shop", url: "/sounds/coffee-shop.mp3" },
-  { id: 4, label: "Fireplace", url: "/sounds/fireplace.mp3" },
+  { id: 1, label: "🌧️ Rain", url: "/sounds/rain.mp3" },
+  { id: 2, label: "🐦 Birds", url: "/sounds/birds.mp3" },
+  { id: 3, label: "☕ Coffee Shop", url: "/sounds/coffee-shop.mp3" },
+  { id: 4, label: "🔥 Fireplace", url: "/sounds/fireplace.mp3" },
 ];
 
 function App() {
